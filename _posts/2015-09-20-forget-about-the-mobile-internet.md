@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://ben-evans.com/benedictevans/2015/9/1/forget-about-mobile-internet'
 title: Forget about the mobile internet
-datePublished: '2015-09-20T09:07:04.576Z'
-dateModified: '2015-09-20T08:59:10.525Z'
+datePublished: '2015-09-20T09:10:02.924Z'
+dateModified: '2015-09-20T09:07:04.576Z'
 sourcePath: _posts/2015-09-20-forget-about-the-mobile-internet.md
 published: true
 _context: 'http://schema.org'
