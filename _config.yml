@@ -1,15 +1,45 @@
-name: velloff
-favicon: null
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - filter:
+      notType:
+        type: WebPage
+    index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+  - filter:
+      type:
+        type: Article
+    permalink:
+      path: '/:title/'
+  - filter:
+      type:
+        type: WebPage
+    permalink:
+      path: '/:title/'
+      navigable: true
+cta:
+  bucket: null
+  version: null
+  domain: null
 purpose: []
+color:
+  saturation: 0.5
+  brandStrength: 0.5
+  rhythmicContrast: 0.5
+  brandColors: []
+  lightness: 0.5
+favicon: null
+name: velloff
+analytics:
+  twitter: null
+  google: null
+  facebook: null
