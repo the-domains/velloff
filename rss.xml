@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title><![CDATA[velloff]]></title>
         <description><![CDATA[velloff]]></description>
         <link>https://thegrid.ai/velloff/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 07 Oct 2015 07:28:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Oct 2015 05:02:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/velloff/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -13,20 +12,6 @@
             <link>https://thegrid.ai/velloff/4571b12d-f773-42a2-8b33-6a8244afaa01/index.html</link>
             <guid isPermaLink="false">4571b12d-f773-42a2-8b33-6a8244afaa01</guid>
             <pubDate>Wed, 07 Oct 2015 07:22:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Just all hanging out on photo day]]></title>
-            <description><![CDATA[<article><h1>Just all hanging out on photo day</h1><p>Make it so.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c722c4bf-a3b2-43e9-80a7-84dea3406f42.jpg"></article>]]></description>
-            <link>https://thegrid.ai/velloff/just-all-hanging-out-on-photo-day/index.html</link>
-            <guid isPermaLink="false">b2c3f6a0-2b40-4b4e-aa72-3b2a99cefdda</guid>
-            <pubDate>Mon, 05 Oct 2015 03:20:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Title]]></title>
-            <description><![CDATA[<article><h1>Title</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee6cd869-5ee4-4e67-b314-12999ba94720.jpg"></article>]]></description>
-            <link>https://thegrid.ai/velloff/title/index.html</link>
-            <guid isPermaLink="false">406de0ef-a21e-4b7c-a6fc-cedce2b21c84</guid>
-            <pubDate>Mon, 05 Oct 2015 03:20:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
