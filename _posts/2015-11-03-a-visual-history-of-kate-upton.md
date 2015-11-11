@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.maxim.com/women/models/article/visual-history-kate-upton-2015-10'
 title: A Visual History of Kate Upton
-datePublished: '2015-11-11T04:54:56.553Z'
-dateModified: '2015-11-03T10:56:34.038Z'
+datePublished: '2015-11-11T04:55:00.294Z'
+dateModified: '2015-11-11T04:54:56.553Z'
 sourcePath: _posts/2015-11-03-a-visual-history-of-kate-upton.md
 published: true
 inFeed: true
