@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[velloff]]></title>
+        <description><![CDATA[velloff]]></description>
+        <link>https://thegrid.ai/velloff/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 08 Dec 2015 03:45:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/velloff/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/52d8f0ce-5fa0-4c70-a738-49db20ee8ca1.png">]]></description>
+            <link>https://thegrid.ai/velloff/4571b12d-f773-42a2-8b33-6a8244afaa01/index.html</link>
+            <guid isPermaLink="false">4571b12d-f773-42a2-8b33-6a8244afaa01</guid>
+            <pubDate>Wed, 07 Oct 2015 07:22:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Login and Profile Management]]></title>
+            <description><![CDATA[<article><h1>Login and Profile Management</h1><p>The new User Profile features are designed to improve the experience of managing Providers (eg. Facebook, Twitter) you may attach to your activated Grid account.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ae97d4b53127f31cc35509ce0c35590a63c7d9c4.png"></article>]]></description>
+            <link>https://thegrid.ai/velloff/login-and-profile-management/index.html</link>
+            <guid isPermaLink="false">45298f1e-d98a-49a1-8971-a5ed8f56aed4</guid>
+            <pubDate>Tue, 08 Dec 2015 03:44:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Visual History of Kate Upton]]></title>
+            <description><![CDATA[<article><h1>A Visual History of Kate Upton</h1><p>From bagging magazine covers to fronting ad campaigns, Kate Upton is probably one of the most recognizable models around. With perfect cheeks that no doubt helped in launching her lingerie and swim line, the star is a bombshell we never tire of seeing.</p><img src="http://www.maxim.com/sites/default/files/styles/custom_crop/public/editor/2015/08/kateupton_2013_sl1.jpg?itok=IWAixNwN&c=3765f7c8fe16baf5ed46bc7284a0abaf"></article>]]></description>
+            <link>http://www.maxim.com/women/models/article/visual-history-kate-upton-2015-10</link>
+            <guid isPermaLink="false">d076bda9-4fc7-41e1-8d54-8b2e97d41433</guid>
+            <pubDate>Wed, 11 Nov 2015 04:55:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6121062-1d1b-425e-89f8-f2482a3d00ac.png">]]></description>
+            <link>https://thegrid.ai/velloff/4e0a007c-399d-4be3-a84c-efd1432193ad/index.html</link>
+            <guid isPermaLink="false">4e0a007c-399d-4be3-a84c-efd1432193ad</guid>
+            <pubDate>Wed, 07 Oct 2015 00:20:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
