@@ -1,8 +1,25 @@
-favicon: null
+typography_spectrum: 0.4629629
+color:
+  saturation: 0.5
+  brandStrength: 0.5
+  rhythmicContrast: 0.5
+  brandColors: []
+  lightness: 0.5
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.2514934
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: velloff
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - filter:
       notType:
@@ -28,20 +45,3 @@ collections:
       path: '/:title/'
       navigable: true
 purpose: []
-typography_spectrum: 0.4629629
-color:
-  saturation: 0.5
-  brandStrength: 0.5
-  rhythmicContrast: 0.5
-  brandColors: []
-  lightness: 0.5
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-layout_spectrum: 0.2514934
-name: velloff
